@@ -1,3 +1,6 @@
 [submodule "HTML5andCSS"]
 	path = HTML5andCSS
 	url = https://github.com/rapaMatiase/HTML5andCSS.git
+[submodule "Calculator"]
+	path = Calculator
+	url = https://github.com/rapaMatiase/Calculator.git
