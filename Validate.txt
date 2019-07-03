@@ -1,0 +1,1 @@
+cat Estado.txt
